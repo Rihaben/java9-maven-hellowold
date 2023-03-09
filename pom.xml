@@ -25,6 +25,7 @@
                     <showDeprecation>true</showDeprecation>
                     <source>1.9</source>
                     <target>1.9</target>
+                    <finalName>app</finalName>
                 </configuration>
             </plugin>
         </plugins>
