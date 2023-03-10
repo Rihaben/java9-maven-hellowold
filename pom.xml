@@ -15,6 +15,7 @@
     </modules>
 
     <build>
+        <finalName>myapp</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -28,7 +29,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>myapp</finalName>
+        
     </build>
 
 </project>
